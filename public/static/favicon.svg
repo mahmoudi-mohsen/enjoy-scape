@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 26L20 8L20 7L17 2C27.9669 2.03147 30.5535 7.62685 31 18L32 18L32 0L0 0z"/>
+<path style="fill:#fbd151; stroke:none;" d="M17 2C19.3835 8.45873 23.674 4.7431 29 5L17 2z"/>
+<path style="fill:#63c39d; stroke:none;" d="M25.6667 4.33333L26.3333 4.66667L25.6667 4.33333z"/>
+<path style="fill:#9ac881; stroke:none;" d="M27 4L29 6L27 4M23 5L22 7L23 5z"/>
+<path style="fill:#21bdbf; stroke:none;" d="M23 6L23 7L29 7L23 6z"/>
+<path style="fill:#9ac881; stroke:none;" d="M20 7L21 8L20 7z"/>
+<path style="fill:#63c39d; stroke:none;" d="M21 7L21 8L24 8L21 7z"/>
+<path style="fill:#9ac881; stroke:none;" d="M24 7L24 8L27 8L24 7z"/>
+<path style="fill:#fbd151; stroke:none;" d="M27 7L27 8L30 8L27 7z"/>
+<path style="fill:#21bdbf; stroke:none;" d="M0 29C12.6533 26.0266 21.8623 10.5963 31 27L32 27L30 8C18.5151 8 3.35504 17.1459 0 29z"/>
+<path style="fill:#010101; stroke:none;" d="M0 32L32 32C30.703 12.4477 5.01691 17.9455 0 32z"/>
+</svg>
